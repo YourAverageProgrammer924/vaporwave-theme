@@ -23,7 +23,9 @@ A vaporwave theme for Ubuntu (GNOME)
 - libre-menu-editor 
 - kitty terminal
 - fastfetch
-- the wallpaper can be found here: [URL]https://en.idei.club/uploads/posts/2023-06/1686655783_en-idei-club-p-purple-grunge-dizain-instagram-8.png
+- the wallpaper can be found here: https://en.idei.club/uploads/posts/2023-06/1686655783_en-idei-club-p-purple-grunge-dizain-instagram-8.png
+
+
 ## The following GNOME extensions
 
 - Blur my Shell
@@ -39,13 +41,15 @@ A vaporwave theme for Ubuntu (GNOME)
 
 
 `git clone https://github.com/YourAverageProgrammer924/vaporwave-theme.git`
-## Update and Upgrade your System first:
+
+
+## Update and Upgrade your System first
 
 
 `sudo apt update && sudo apt upgrade -y`
 
 
-## Install all the listed requirements:
+## Install all the listed requirements
 
 
 `sudo apt install gnome-tweaks kitty fastfetch -y`
@@ -55,6 +59,7 @@ A vaporwave theme for Ubuntu (GNOME)
 
 
 `sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor`
+
 
 ## Icon change
 
