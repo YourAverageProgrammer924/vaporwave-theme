@@ -1,7 +1,18 @@
 # vaporwave-theme
 A vaporwave theme for Ubuntu (GNOME)
 
-[/home/developer-alex/Bilder/Bildschirmfotos/Bildschirmfoto vom 2025-05-11 15-21-36.png]
+
+![Bildschirmfoto vom 2025-05-11 15-21-53](https://github.com/user-attachments/assets/bb870047-596b-4111-bdb9-28002882ac50)
+
+
+![Bildschirmfoto vom 2025-05-11 15-22-13](https://github.com/user-attachments/assets/7bb3fc7e-6239-40e8-87f7-44e9da299590)
+
+
+![Bildschirmfoto vom 2025-05-11 15-40-25](https://github.com/user-attachments/assets/98143a48-8333-40a0-bd6b-3fac39e09b43)
+
+
+
+![Bildschirmfoto vom 2025-05-11 15-21-36](https://github.com/user-attachments/assets/257f6d86-9a53-4e06-8efc-f9d5e2d1605a)
 
 ## General Requirements for this Theme:
 
