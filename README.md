@@ -25,12 +25,9 @@ Update and Upgrade your System first:
 
 
 Install all the requirements
-```bash sudo apt install gnome-tweaks kitty fastfetch -y
-```
+```bash sudo apt install gnome-tweaks kitty fastfetch -y```
 
-```bash sudo flatpak install flathub com.mattjakeman.ExtensionManager
-```
+```bash sudo flatpak install flathub com.mattjakeman.ExtensionManager```
 
-```bash flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor
-```
+```bash flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor```
 
