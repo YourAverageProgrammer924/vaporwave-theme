@@ -59,8 +59,8 @@ A vaporwave theme for Ubuntu (GNOME)
 ## Icon change
 
 
-Essentially you open up libre-menu-editor and choose the application, u want to change the icon from.
-After that u can click on the symbol tab/the symbol change icon and use my icons (if u want).
+Essentially you open up libre-menu-editor and choose the application, you want to change the icon from.
+After that you can click on the symbol tab/the symbol change icon and use my icons (if you want).
 
 
 ![grafik](https://github.com/user-attachments/assets/ca52820a-4291-4af9-9a62-359174b9dd69)
