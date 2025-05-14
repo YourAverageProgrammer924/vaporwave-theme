@@ -23,7 +23,7 @@ A vaporwave theme for Ubuntu (GNOME)
 - libre-menu-editor 
 - kitty terminal
 - fastfetch
-
+- the wallpaper can be found here: [URL]https://en.idei.club/uploads/posts/2023-06/1686655783_en-idei-club-p-purple-grunge-dizain-instagram-8.png
 ## The following GNOME extentions
 
 - Blur my Shell
