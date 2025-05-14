@@ -42,29 +42,46 @@ A vaporwave theme for Ubuntu (GNOME)
 # Installation process:
 
 
-## Clone the repo:
-
-
-`git clone https://github.com/YourAverageProgrammer924/vaporwave-theme.git`
-
-
 ## Update and Upgrade your System first
 
 
 `sudo apt update && sudo apt upgrade -y`
 
 
+## Clone the repo:
+
+
+`git clone https://github.com/YourAverageProgrammer924/vaporwave-theme.git`
+
+
+
+
 ## Install all the listed requirements
+
+### Install fastfetch
+
+```
+   sudo add-apt-repository ppa:zhangsongcui3371/fastfetch
+   sudo apt update
+   sudo apt install fastfetch -y
+```
+
 
 
 ```
-   sudo apt install gnome-tweaks kitty fastfetch -y
+   sudo apt install gnome-tweaks kitty -y
    sudo flatpak install flathub com.mattjakeman.ExtensionManager
    sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor
 ```
 
 
-## install oh-my-zsh
+## Install zsh
+
+```sudo apt install zsh -y```
+
+
+
+## Install oh-my-zsh
 
 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
