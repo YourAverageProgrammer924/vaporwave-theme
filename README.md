@@ -37,6 +37,7 @@ A vaporwave theme for Ubuntu (GNOME)
 - Desktop Logo
 - Favorites to Application Grid
 - Just Perfection
+- Lockscreen Extension
 
 # Installation process:
 
