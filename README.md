@@ -34,13 +34,18 @@ A vaporwave theme for Ubuntu (GNOME)
 
 # Installation process:
 
-Update and Upgrade your System first:
+
+## Clone the repo:
 
 
-`bash sudo apt update && sudo apt upgrade -y`
+`git clone [URL]
+## Update and Upgrade your System first:
 
 
-Install all the requirements
+`sudo apt update && sudo apt upgrade -y`
+
+
+## Install all the listed requirements:
 
 
 `sudo apt install gnome-tweaks kitty fastfetch -y`
@@ -50,4 +55,16 @@ Install all the requirements
 
 
 `sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor`
+
+## Icon change
+
+
+Essentially you open up libre-menu-editor and choose the application, u want to change the icon from.
+After that u can click on the symbol tab/the symbol change icon and use my icons (if u want).
+
+
+![grafik](https://github.com/user-attachments/assets/ca52820a-4291-4af9-9a62-359174b9dd69)
+
+
+
 
