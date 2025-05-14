@@ -21,13 +21,19 @@ A vaporwave theme for Ubuntu (GNOME)
 # Installation process:
 
 Update and Upgrade your System first:
+
+
 `bash sudo apt update && sudo apt upgrade -y`
 
 
 Install all the requirements
+
+
 `sudo apt install gnome-tweaks kitty fastfetch -y`
 
+
 `sudo flatpak install flathub com.mattjakeman.ExtensionManager`
+
 
 `sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor`
 
