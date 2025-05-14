@@ -66,7 +66,7 @@ A vaporwave theme for Ubuntu (GNOME)
    sudo apt install fastfetch -y
 ```
 
-
+### Install the rest
 
 ```
    sudo apt install gnome-tweaks kitty -y
@@ -75,13 +75,13 @@ A vaporwave theme for Ubuntu (GNOME)
 ```
 
 
-## Install zsh
+### Install zsh
 
 ```sudo apt install zsh -y```
 
 
 
-## Install oh-my-zsh
+### Install oh-my-zsh
 
 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
