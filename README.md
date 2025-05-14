@@ -1,2 +1,19 @@
 # vaporwave-theme
 A vaporwave theme for Ubuntu (GNOME)
+
+## Requirements for this Theme:
+
+
+- GNOME-Tweaks
+- GNOME-Shell-Extensions
+- libre-menu-editor 
+- kitty terminal
+- fastfetch
+
+## The following GNOME extentions
+
+- Blur my Shell
+- Compiz windows effect
+- Desktop Logo
+- Favorites to Application Grid
+- Just Perfection
