@@ -38,7 +38,7 @@ A vaporwave theme for Ubuntu (GNOME)
 ## Clone the repo:
 
 
-`git clone [URL](https://github.com/YourAverageProgrammer924/vaporwave-theme.git)`
+`git clone https://github.com/YourAverageProgrammer924/vaporwave-theme.git`
 ## Update and Upgrade your System first:
 
 
