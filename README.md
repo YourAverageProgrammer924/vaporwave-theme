@@ -23,6 +23,7 @@ A vaporwave theme for Ubuntu (GNOME)
 - libre-menu-editor 
 - kitty terminal
 - fastfetch
+- -oh my zsh
 - the wallpaper can be found here: https://en.idei.club/uploads/posts/2023-06/1686655783_en-idei-club-p-purple-grunge-dizain-instagram-8.png
 
 
@@ -60,11 +61,37 @@ A vaporwave theme for Ubuntu (GNOME)
 
 `sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor`
 
+## Deinstall the preinstalled GNOME-terminal
+
+
+`sudo apt remove gnome-terminal -y`
+
+
+## Make fastfetch + icon appear on terminal startup
+
+
+### Modify your `~/.zshrc` file
+
+
+`nano ~/.zshrc`
+
+
+Now go to the end of the file and add `fastfetch --logo ~/vaporwave_icon_pack/vpn --logo-width 40`
+
+
+Optional also
+
+
+`alias vaporfetch="fastfetch --logo ~/vaporwave_icon_pack/vpn --logo-width 40"`
+
+
+Press `strg+X` to save the file
+
 
 ## Icon change
 
 
-Essentially you open up libre-menu-editor and choose the application, you want to change the icon from.
+Essentially you open up libre-menu-editor and choose the application, you want to change the icon for.
 After that you can click on the symbol tab/the symbol change icon and use my icons (if you want).
 
 
