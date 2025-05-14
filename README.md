@@ -23,7 +23,7 @@ A vaporwave theme for Ubuntu (GNOME)
 - libre-menu-editor 
 - kitty terminal
 - fastfetch
-- -oh my zsh
+- oh my zsh
 - the wallpaper can be found here: https://en.idei.club/uploads/posts/2023-06/1686655783_en-idei-club-p-purple-grunge-dizain-instagram-8.png
 
 
@@ -60,6 +60,14 @@ A vaporwave theme for Ubuntu (GNOME)
 
 
 `sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor`
+
+
+## install oh-my-zsh
+
+
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+
+
 
 ## Deinstall the preinstalled GNOME-terminal
 
