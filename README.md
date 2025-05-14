@@ -53,7 +53,8 @@ A vaporwave theme for Ubuntu (GNOME)
 ## Install all the listed requirements
 
 
-```sudo apt install gnome-tweaks kitty fastfetch -y
+```
+   sudo apt install gnome-tweaks kitty fastfetch -y
    sudo flatpak install flathub com.mattjakeman.ExtensionManager
    sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor
 ```
