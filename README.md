@@ -53,13 +53,10 @@ A vaporwave theme for Ubuntu (GNOME)
 ## Install all the listed requirements
 
 
-`sudo apt install gnome-tweaks kitty fastfetch -y`
-
-
-`sudo flatpak install flathub com.mattjakeman.ExtensionManager`
-
-
-`sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor`
+```sudo apt install gnome-tweaks kitty fastfetch -y
+   sudo flatpak install flathub com.mattjakeman.ExtensionManager
+   sudo flatpak install flathub page.codeberg.libre_menu_editor.LibreMenuEditor
+```
 
 
 ## install oh-my-zsh
@@ -93,7 +90,7 @@ Optional also
 `alias vaporfetch="fastfetch --logo ~/vaporwave_icon_pack/vpn --logo-width 40"`
 
 
-Press `strg+X` to save the file
+Press `Ctrl+X` to close the file then press `Y` to save the file.
 
 
 ## Icon change
