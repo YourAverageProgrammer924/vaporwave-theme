@@ -1,6 +1,8 @@
 # vaporwave-theme
 A vaporwave theme for Ubuntu (GNOME)
 
+[/home/developer-alex/Bilder/Bildschirmfotos/Bildschirmfoto vom 2025-05-11 15-21-36.png]
+
 ## General Requirements for this Theme:
 
 
