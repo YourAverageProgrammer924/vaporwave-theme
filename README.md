@@ -25,9 +25,7 @@ A vaporwave theme for Ubuntu (GNOME)
 - fastfetch
 - oh my zsh
 - the wallpaper can be found here: 
-
-
-https://en.idei.club/uploads/posts/2023-06/1686655783_en-idei-club-p-purple-grunge-dizain-instagram-8.png
+  https://en.idei.club/uploads/posts/2023-06/1686655783_en-idei-club-p-purple-grunge-dizain-instagram-8.png
 
 
 ## The following GNOME extensions
